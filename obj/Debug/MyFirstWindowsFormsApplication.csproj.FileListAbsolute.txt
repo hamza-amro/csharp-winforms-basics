@@ -1,0 +1,12 @@
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\bin\Debug\MyFirstWindowsFormsApplication.exe.config
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\bin\Debug\MyFirstWindowsFormsApplication.exe
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\bin\Debug\MyFirstWindowsFormsApplication.pdb
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.csproj.AssemblyReference.cache
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.Form1.resources
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.Properties.Resources.resources
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.csproj.GenerateResource.cache
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.csproj.CoreCompileInputs.cache
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.exe
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.pdb
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.frmMain.resources
+F:\14-C# Level 1\Part 2 - First Windows Forms Application\MyFirstWindowsFormsApplication\obj\Debug\MyFirstWindowsFormsApplication.frmMessageBox.resources
